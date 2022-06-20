@@ -1,5 +1,5 @@
 # Linear-Regression
-Predicts what the peak electricity demand will be during the day tomorrow for some area . 
+Predicts what the peak electricity demand will be during the day tomorrow for some area. 
 This example uses data from the area surrounding Pittsburgh, PA.
 This is accomplished by using a simple linear regression algorithm implemented in Python on a Jupyter Notebook.
 
